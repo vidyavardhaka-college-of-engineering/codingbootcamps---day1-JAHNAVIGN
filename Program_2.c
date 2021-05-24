@@ -12,10 +12,12 @@ int main()
 {
 //Decleade Integer n and write scanf code bellow 
 int n;
+
+printf("Enter an Integer Value\n");
 scanf("%d",&n);
 
 //if you write correcr code your value will print
-printf("%d",n);
+printf("%d\n",n);
 printf("Good Job...");
 return 0;
 }
